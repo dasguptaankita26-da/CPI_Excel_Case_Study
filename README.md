@@ -76,16 +76,10 @@ The analysis demonstrates how Excel's analytical features can be used to transfo
 ## 📂 Project Structure
 
 ```
-India-CPI-Inflation-Analysis/
+CPI_Excel_Case_Study/
 │
-├── Dataset/
-│   └── CPI_Data.xlsx
+├── Ankita Dasgupta - CPI Case Study
 │
-├── Dashboard/
-│   └── CPI_Analysis.xlsx
-│
-├── Images/
-│   └── dashboard.png
 │
 └── README.md
 ```
